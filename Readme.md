@@ -1,2 +1,2 @@
 # Exercicio GIT
- Alteração do arquivo
+ Alteração do arquivo, alteração nova do arquivo Readme
